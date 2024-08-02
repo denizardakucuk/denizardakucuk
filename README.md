@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-photo/medium-shot-man-with-hoodie-holding-laptop_23-2149192118.jpg?t=st=1722600789~exp=1722604389~hmac=5c88a101e580043b6f76a58781fec5cb1b610ec1cd71ca428d1a11178587ad1e&w=1060)
+![MasterHead](https://img.freepik.com/free-photo/medium-shot-man-with-hoodie-holding-laptop_23-2149192118.jpg?t=st=1722600789~exp=1722604389~hmac=5c88a101e580043b6f76a58781fec5cb1b610ec1cd71ca428d1a11178587ad1e&w=1060)
 
 
 <h1 align="center">Hi 👋, I'm Deniz Arda KÜÇÜK</h1>
