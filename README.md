@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 👨‍💻 All of my projects are available at [www.denizardakucuk.com](www.denizardakucuk.com)
+- 👨‍💻 All of my projects are available at [www.denizardakucuk.com](https://denizardakucuk.com/)
 
 - 📫 How to reach me **denizardakucuk@gmail.com**
 
