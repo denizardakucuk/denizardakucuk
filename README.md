@@ -1,12 +1,13 @@
 ![MasterHead](https://img.freepik.com/free-photo/medium-shot-man-with-hoodie-holding-laptop_23-2149192118.jpg?t=st=1722600789~exp=1722604389~hmac=5c88a101e580043b6f76a58781fec5cb1b610ec1cd71ca428d1a11178587ad1e&w=1060)
 
-
 <h1 align="center">Hi 👋, I'm Deniz Arda KÜÇÜK</h1>
 <h3 align="center">A passionate developer from Türkiye</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denizardakucuk" alt="denizardakucuk" /></a> </p>
-
 - 🔭 I’m currently working on **React**
+
+- 👨‍💻 All of my projects are available at [www.denizardakucuk.com](www.denizardakucuk.com)
+
+- 📫 How to reach me **denizardakucuk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denizardakucuk&show_icons=true&locale=en&layout=compact" alt="denizardakucuk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denizardakucuk&show_icons=true&locale=en" alt="denizardakucuk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denizardakucuk&" alt="denizardakucuk" /></p>
