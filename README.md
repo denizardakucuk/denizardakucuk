@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Deniz Arda KÜÇÜK</h1>
-<h3 align="center">A passionate developer from Türkiye</h3>
+<h3 align="center">A passionate developer from Türkiye  <img src="https://cdn.countryflags.com/thumbs/turkey/flag-400.png" alt="" width="20" height=""/></h3>
 <br>
+
 
 - 🔭 I’m currently working on **React**
 
