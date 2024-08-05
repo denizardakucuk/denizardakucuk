@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Deniz Arda KÜÇÜK</h1>
-<h3 align="center">A passionate developer from Türkiye  <img src="https://cdn.countryflags.com/thumbs/turkey/flag-400.png" alt="" width="30" height=""/></h3>
+<h3 align="center">A passionate developer from Türkiye &nbsp<img src="https://cdn.countryflags.com/thumbs/turkey/flag-400.png" alt="" width="25" height=""/></h3>
 <br>
 
 
