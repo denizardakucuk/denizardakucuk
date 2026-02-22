@@ -24,7 +24,6 @@ I work on test scenarios, test case writing, and web application testing while a
 - System Testing  
 - API Testing (Postman)  
 - Selenium  
-- Basic Automation (Python)
 
 ---
 
